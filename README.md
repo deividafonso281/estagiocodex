@@ -4,7 +4,7 @@
 
 ## Resolucao dos exercicios de codigo
 
- [Resolução](https://github.com/deividafonso281/codex/blob/main/notebook/teste_tecnico.ipynb)
+ [Resolução](https://github.com/deividafonso281/estagiocodex/blob/main/notebook/teste_tecnico.ipynb)
 
 ## Resolucao do exercicio de modelo de entidade relacionamento
 
