@@ -2,11 +2,12 @@
 
 * David Afonso Borges dos Santos
 
-## Resolucao dos exercicios de codigo
+## Resolução dos exercícios de código
+* Instruções: Baixar o notebook no link abaixo e executar com o google colab
 
  [Resolução](https://github.com/deividafonso281/estagiocodex/blob/main/notebook/teste_tecnico.ipynb)
 
-## Resolucao do exercicio de modelo de entidade relacionamento
+## Resolução do exercício de modelo de entidade relacionamento
 
  ![Modelo entidade relacionamento para produtos pedidos e clientes](https://github.com/deividafonso281/estagiocodex/blob/main/images/questao.png)
 
